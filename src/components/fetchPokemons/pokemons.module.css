@@ -1,0 +1,28 @@
+.button {
+  margin-bottom: 10px;
+}
+
+.list {
+  list-style-type: none;
+  line-height: 80%;
+  border: 1px solid rgb(77, 166, 214);
+  width: 50%;
+  text-align: center;
+  padding-right: 10px;
+}
+
+.listItem {
+  padding-top: 10px;
+}
+
+.listItemText {
+  font-size: 15px;
+  line-height: 15px;
+  font-weight: 600;
+}
+
+.listItemTextData {
+  font-weight: 700;
+  color: rgb(19, 108, 157);
+  text-transform: capitalize;
+}

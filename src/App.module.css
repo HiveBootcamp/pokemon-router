@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.containerTitle {
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(80, 155, 220);
+  padding: 20px;
+}
